@@ -15,7 +15,7 @@ A full-featured clone of Google Flights, built to provide a seamless flight sear
 
 🚀 Real-time Search Simulation: Smooth loading and mock API integration.
 
-# Demo Video
+# 🎥 Demo Video
 
 [![Demo Video](public/thumbnail.png)](https://youtu.be/8mvljnnzS24)
 
@@ -25,7 +25,7 @@ A full-featured clone of Google Flights, built to provide a seamless flight sear
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/google-flights-clone.git
+git clone [https://github.com/yourusername/google-flights-clone.git](https://github.com/Geze296/Flight-Guide.git)
 cd google-flights-clone
 2. Install dependencies
 bash
