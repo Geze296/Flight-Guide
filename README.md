@@ -1,13 +1,39 @@
-# React + Vite
+# ✈️ Flights Guide
+
+A full-featured clone of Google Flights, built to provide a seamless flight search experience with real-time results, filtering, and intuitive UI/UX. This project is designed to mimic the core functionalities of Google Flights, including searching, selecting, and filtering flights between destinations.
+
+🌟 Features
+🔍 Flight Search Engine: Search for flights based on origin, destination, and travel dates.
+
+📅 Date Picker: Intuitive calendar UI to pick departure and return dates.
+
+🛫 Multi-city & One-way Options (optional enhancement).
+
+💵 Price Sorting & Filters: Sort by price, airline, stops, and more.
+
+🌐 Responsive Design: Fully mobile-friendly interface.
+
+🚀 Real-time Search Simulation: Smooth loading and mock API integration.
+
+# Demo Video
+
 [![Demo Video](public/thumbnail.png)](https://youtu.be/8mvljnnzS24)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Getting Started
+1. Clone the repository
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/google-flights-clone.git
+cd google-flights-clone
+2. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Run the app
+bash
+Copy
+Edit
+npm run dev
