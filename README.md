@@ -1,5 +1,5 @@
 # React + Vite
-[![Demo Video](assets/demo-thumbnail.png)](assets/flightGuide.mp4)
+[![Demo Video](assets/thumbnail.png)](assets/flightGuide.mp4)
 
 
 
