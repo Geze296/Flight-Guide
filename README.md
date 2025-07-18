@@ -1,7 +1,5 @@
 # React + Vite
-[![Demo Video](assets/thumbnail.png)](assets/flightGuide.mp4)
-
-
+![Demo Video](public/thumbnail.png)(public/flightGuide.mp4)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
